@@ -1,0 +1,6 @@
+@Trustwin.FileService_HostAddress = http://localhost:5027
+
+GET {{Trustwin.FileService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
